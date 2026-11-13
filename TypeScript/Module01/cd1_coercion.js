@@ -1,4 +1,4 @@
-const addTwo = (a,b) => {
+/* const addTwo = (a,b) => {
   return a+b
 }
 console.log (addTwo("10", 20))
@@ -7,4 +7,4 @@ const user = {
 }
 console.log (user.name)
 console.log (user.address)
-console.log (user.address.city)
+console.log (user.address.city) */
